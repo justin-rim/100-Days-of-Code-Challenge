@@ -5,4 +5,6 @@ Hi Github. Here's my 100 Days of Coding Challenge. I'm looking to get into Web D
 
 I technically started on 4/11/2020, but I have been very resistant thus far to actually start on a project. To make-up for the lost time and days, I shall be playing catch up, posting multiple days, if not, adding an additional day or two for this challenge.
 
-My project is to create a website with multiple pages, utilizing HTML, CSS and Javascript. I will be attempting to create this using Drupal, which also includes PHP. 
+I will be working with HTML, CSS and Javascript to start, and also will look into PHP for some back-end.
+
+All feedback is appreciated!
